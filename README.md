@@ -41,7 +41,7 @@
    with the Department for Education. The program is competetive and I have been selected from a large pool of applicants.
    
    
- * I’m looking to collaborate on a Data Science project so feel free to reach out!
+ * I’m looking to collaborate on Data Science projects so feel free to reach out!
 
 
  * How to reach me: ztw1e12@gmail.com
