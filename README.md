@@ -1,9 +1,10 @@
 ### Skills and Experience aqcuired from work, projects completed while studying at university, and selfstudy
 
 
-* I’m currently working as The Lead Teacher for Physics and have previously worked in other projects and have experience in the following area
+* I’m currently working as The Lead Teacher for Physics and have previously worked in other projects. I have experience 
+  in the  following area
 * Data wrangling is the process of cleaning data for the purposes of data analysis, machine learning and visualization to 
-* gain  actionable insights. I used python and pandas to clean messy data sets. Further developing skills on
+  gain  actionable insights. I used python and pandas to clean messy data sets. Further developing skills on
         o Importing and parsing data in CSV, XML and JSON format;
         o Cleaning and auditing data for accuracy, consistency, correct types, and missing values; and
         o Reshaping data to communicate results better with team members.
@@ -21,10 +22,10 @@
   * Preparation of posters and slides for presentation using Adobe Illustrator and Adobe Photoshop
   * Use of PyMOL and VMD – for visualization and analysis of biologically important molecules
   * Also use of scientific graphing and exploratory &amp; statistical data analysis tool (OriginLab) to analyze data
-  * Present my data and findings both in a poster and seminar form within my institution and regional conferences and workshops...
+  * Present my data and findings both in a poster and seminar form within my institution and regional conferences and workshops.
 
  * I’m currently been trained as a Data Scientist using python on a Bootcamp designed and provided by HyperioDev in partnership 
- * with the Department for Education. The program is competetive and I have been selected from a large pool of applicants...
- * I’m looking to collaborate on a Data Science project so feel free to reach out!...
+ * with the Department for Education. The program is competetive and I have been selected from a large pool of applicants.
+ * I’m looking to collaborate on a Data Science project so feel free to reach out!
 
- * How to reach me: ztw1e12@gmail.com ...
+ * How to reach me: ztw1e12@gmail.com
