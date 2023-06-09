@@ -5,13 +5,13 @@
   in the  following area
 * Data wrangling is the process of cleaning data for the purposes of data analysis, machine learning and visualization to 
   gain  actionable insights. I used python and pandas to clean messy data sets. Further developing skills on
-   * Importing and parsing data in CSV, XML and JSON format;
-   * Cleaning and auditing data for accuracy, consistency, correct types, and missing values; and
-   * Reshaping data to communicate results better with team members.
+    Importing and parsing data in CSV, XML and JSON format;
+    Cleaning and auditing data for accuracy, consistency, correct types, and missing values; and
+    Reshaping data to communicate results better with team members.
     
-  - Literature search for one-bond, two-bond and three-bond separated atoms (spins) coupling values
+  * Literature search for one-bond, two-bond and three-bond separated atoms (spins) coupling values
   
-  - Literature search for vicinal coupling values for backbone and sidechain dihedral angles for proteins and nucleic acids
+  * Literature search for vicinal coupling values for backbone and sidechain dihedral angles for proteins and nucleic acids
   
   - Computing Karplus coefficients from vicinal coupling values and dihedral angles for the backbone and sidechain 
     dihedrals for   proteins and nucleic acids
