@@ -1,9 +1,9 @@
-### Skills and Experience acquired from work, Bootcamps, projects completed while studying at university, and self study
+### Skills and Experience acquired from work, HyperionDev Bootcamp, projects completed while studying at university, and self study
 
 
 * I’m currently working as The Lead Teacher for Physics and have previously worked on other projects. I have experience 
   in the  following area
-* Data wrangling is the process of cleaning data for the purposes of data analysis, machine learning and visualization to 
+* Data analysis and wrangling is the process of cleaning data for the purposes of data analysis, machine learning and visualization to 
   gain  actionable insights. I used python and pandas to clean messy data sets. Further developing skills on
     Importing and parsing data in CSV, XML and JSON format;
     Cleaning and auditing data for accuracy, consistency, correct types, and missing values; and
