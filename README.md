@@ -1,4 +1,4 @@
-### Skills and Experience acquired from work, projects completed while studying at university, and self study
+### Skills and Experience acquired from work, Bootcamps, projects completed while studying at university, and self study
 
 
 * I’m currently working as The Lead Teacher for Physics and have previously worked on other projects. I have experience 
