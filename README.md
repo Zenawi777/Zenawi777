@@ -25,7 +25,7 @@
   * Present my data and findings both in a poster and seminar form within my institution and regional conferences and workshops.
 
  * I’m currently been trained as a Data Scientist using python on a Bootcamp designed and provided by HyperioDev in partnership 
- * with the Department for Education. The program is competetive and I have been selected from a large pool of applicants.
+   with the Department for Education. The program is competetive and I have been selected from a large pool of applicants.
  * I’m looking to collaborate on a Data Science project so feel free to reach out!
 
  * How to reach me: ztw1e12@gmail.com
