@@ -9,9 +9,9 @@
    * Cleaning and auditing data for accuracy, consistency, correct types, and missing values; and
    * Reshaping data to communicate results better with team members.
     
-  * Literature search for one-bond, two-bond and three-bond separated atoms (spins) coupling values
-  * Literature search for vicinal coupling values for backbone and sidechain dihedral angles for proteins and nucleic acids
-  * Computing Karplus coefficients from vicinal coupling values and dihedral angles for the backbone and sidechain dihedrals 
+  Literature search for one-bond, two-bond and three-bond separated atoms (spins) coupling values
+  Literature search for vicinal coupling values for backbone and sidechain dihedral angles for proteins and nucleic acids
+  Computing Karplus coefficients from vicinal coupling values and dihedral angles for the backbone and sidechain dihedrals 
   * for proteins and nucleic acids
   * Running computational chemistry methods: DFT and Hartree Fock theories
   * Using computational chemistry packages such as Gaussian and Molden
