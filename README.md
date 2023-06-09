@@ -1,7 +1,7 @@
-### Skills and Experience aqcuired from work, projects completed while studying at university, and selfstudy
+### Skills and Experience acquired from work, projects completed while studying at university, and self study
 
 
-* I’m currently working as The Lead Teacher for Physics and have previously worked in other projects. I have experience 
+* I’m currently working as The Lead Teacher for Physics and have previously worked on other projects. I have experience 
   in the  following area
 * Data wrangling is the process of cleaning data for the purposes of data analysis, machine learning and visualization to 
   gain  actionable insights. I used python and pandas to clean messy data sets. Further developing skills on
@@ -37,8 +37,8 @@
   * Present my data and findings both in a poster and seminar form within my institution and regional conferences and workshops.
 
 
- * I’m currently been trained as a Data Scientist using python on a Bootcamp designed and provided by HyperioDev in partnership 
-   with the Department for Education. The program is competetive and I have been selected from a large pool of applicants.
+ * I’m currently being trained as a Data Scientist using python on a Bootcamp designed and provided by HyperionDev in partnership 
+   with the Department for Education. The program is competitive and I have been selected from a large pool of applicants.
    
    
  * I’m looking to collaborate on Data Science projects so feel free to reach out!
